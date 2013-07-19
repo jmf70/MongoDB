@@ -20,8 +20,8 @@ function CreateCtrl($scope, $location, Project) {
     });
   }
 }
- 
- 
+
+
 function EditCtrl($scope, $location, $routeParams, Project) {
   var self = this;
  
