@@ -1,3 +1,4 @@
+
 angular.module('project', ['mongolab']).
   config(function($routeProvider) {
     $routeProvider.
@@ -45,4 +46,11 @@ function EditCtrl($scope, $location, $routeParams, Project) {
       $location.path('/list');
     });
   };
+}
+
+var mensaje={};
+mensaje.strTitulo="Proyectos JavaScript";
+mensaje.version="v2.8";
+function TextController($scope){
+	$scope.mensajes=mensaje;
 }

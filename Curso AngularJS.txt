@@ -1,0 +1,46 @@
+﻿Curso de AngularJS
+
+La página principal del curso es:
+http://www.thinkster.io/
+
+Llamada a mi MONGOLAB:  https://api.mongolab.com/api/1/databases?apiKey=4drrNqaNppiNdF_aame00-sl9a6rU1Yp
+user:jmf70
+pwd: la larga y buena
+
+
+Otro almacenamiento con caracteristicas de real-time (FireBase)
+Me he registrado con las credenciales de GitHub
+He creado la bbdd:  https://jmf70-prueba1.firebaseio.com/
+
+
+Acceder mediante REST a MongoLAB
+https://support.mongolab.com/entries/20433053-REST-API-for-MongoDB
+
+Llamada del ejemplo a MongoLab:  https://api.mongolab.com/api/1/databases/angularjs/collections/projects?apiKey=4f847ad3e4b08a2eed5f3b54
+
+Repositorio del libro de Angular en GitHub:  https://github.com/shyamseshadri/angularjs-book
+
+
+16/07/2013
+----------
+1ª PARTE: 
+http://www.thinkster.io/pick/51d2904e1e4b9c2d8900001c/kicking-the-tires
+
+Viendo el video de la overview en: http://docs.angularjs.org/guide/overview
+Me he quedado en el ejemplo de MONGODB....http://mhevery.github.io/angular-demo-slides/index.html#/list y lo tengo en mi disco en C:\Users\Jorge\Documents\Pruebas Angular\MongoDB
+
+Ya me funciona el proyecto!!!. Está instalado en IIS porque sino no se ejecutaba correctamente por el tema del acceso a recursos locales.
+
+He creado un repositorio de GIT para el control de código, y ahora me falta subirlo a GITHUB (enlazar GIT con GITHUB)
+Ya está enlazado.
+Ayuda para GitUI:  http://nathanj.github.io/gitguide/tour.html
+
+
+19/07/2013
+----------
+1ª PARTE:
+Leido:  http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html
+
+2ª PARTE:
+Primeros videos en egghead: 1,2,3,4,5
+Readings Chapter 1, 
