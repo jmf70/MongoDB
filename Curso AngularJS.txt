@@ -2,6 +2,8 @@
 
 La página principal del curso es:
 http://www.thinkster.io/
+http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs
+
 
 Llamada a mi MONGOLAB:  https://api.mongolab.com/api/1/databases?apiKey=4drrNqaNppiNdF_aame00-sl9a6rU1Yp
 user:jmf70
@@ -35,12 +37,61 @@ He creado un repositorio de GIT para el control de código, y ahora me falta sub
 Ya está enlazado.
 Ayuda para GitUI:  http://nathanj.github.io/gitguide/tour.html
 
-
+----------
 19/07/2013
 ----------
 1ª PARTE:
 Leido:  http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html
 
-2ª PARTE:
+2ª PARTE: Taking it for a Spin
 Primeros videos en egghead: 1,2,3,4,5
-Readings Chapter 1, 
+Readings Chapter 1, Chapter 2 (hasta templates and data binding)
+
+----------
+22/07/2013
+----------
+2ª PARTE: Taking it for a Spin
+AngularJS Documentation: 1,2,3,4,5,6,7,8
+
+3ª PARTE: Filters
+Egghead videos: Filters, ngFilter, Built-in filters
+Readings: Chapter 2: Formatting Data Whit filters
+AngularJS Documentation: 1,2,3
+
+4ª PARTE: Directives
+Egghead videos:1,2,3,4,5
+
+Para leer el enlace => http://jimhoskins.com/2012/12/17/angularjs-and-apply.html
+
+----------
+23/07/2013
+----------
+4ª PARTE: Directives
+Egghead videos:6,7,8,9
+Readings: Chapter 6: Directives
+
+----------
+24/07/2013
+----------
+4ª PARTE: Directives
+AngularJS Documentation: 1,2
+
+5ª PARTE: Scope
+Egghead videos: 1,2,3,4,5
+Readings
+AngularJS
+
+6ª PARTE:
+Egghead videos: 1,2,3
+
+----------
+29/07/2013
+----------
+6ª PARTE:
+Readings: Chapter 2: Organizing Dependencies with Modules
+AngularJS Documentation: 1
+
+7ª PARTE:
+Egghead videos: 1,2
+Readings: 1,2,3,4,5
+AngularJS Documentation: 1
